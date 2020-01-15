@@ -1,5 +1,8 @@
-# LearningLinux
+# Konfigurasi Linux LKS 2020
+Daftar Isi
 
-Silahkan gunakan dengan baik dan bagikan ilmu yang telah didapat ke orang-orang yang membutuhkan !!
+1. Debian (Waiting for update)
+2. Ubuntu (Coming Soon)
+3. CentOs (Coming Soon)
 
-Thanks
+Semoga membantu rekan-rekan ! 
